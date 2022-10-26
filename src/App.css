@@ -18,7 +18,7 @@ nav{
   
  }
  nav button{
-   border: 1px solid black;
+   
    border-radius:0.5rem;
    color: rgb(234, 218, 46);
    background-color:  rgb(160, 4, 53);
@@ -36,7 +36,7 @@ nav{
 }
 
 .card{
-  border: 3px solid black;
+  border: 1px solid black;
   border-radius: 0.5rem;
   display: inline-block;
   padding: 10px 10px;
