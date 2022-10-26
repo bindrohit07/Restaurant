@@ -1,0 +1,71 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1{
+  background-color:rgb(241, 8, 82);
+  display: inline-block;
+border-radius: 2px;
+padding: 0.3rem;
+}
+nav{
+  display: block;
+  text-align: center;
+  margin-top: 2rem;
+ 
+  
+ }
+ nav button{
+   border: 1px solid black;
+   border-radius:0.5rem;
+   color: rgb(234, 218, 46);
+   background-color:  rgb(160, 4, 53);
+   padding: 5px;
+   text-transform: uppercase;
+   font-weight: bold;
+   margin-left: 1rem;
+   cursor: pointer;
+ 
+ } 
+.container{
+  margin-top: 2rem;
+  text-align: center;
+  
+}
+
+.card{
+  border: 3px solid black;
+  border-radius: 0.5rem;
+  display: inline-block;
+  padding: 10px 10px;
+}
+.name{
+  color: rgb(241, 8, 82);
+}
+.price{
+  
+  color:  rgb(146, 52, 228);
+}
+
+img{
+  padding: 1rem 0;
+  width: 18rem;
+  height: 15rem;
+  
+}
+.order{
+  margin: 1rem 0;
+  padding: 2px 2px;
+  background-color: rgb(25, 243, 141);
+  border-radius: 5px;
+  text-transform: uppercase;
+  color:red; 
+  cursor: pointer;
+}
+.footer{
+  text-align: center;
+ margin: 1rem 0;
+}
+
