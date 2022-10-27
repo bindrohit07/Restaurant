@@ -22,7 +22,7 @@ nav{
   
  }
  nav button{
-   margin-top: 0.7rem;
+   margin-top: 1rem;
    border-radius:0.5rem;
    color: rgb(229, 7, 137);
    background-color: white;
@@ -40,7 +40,7 @@ nav{
 }
 
 .card{
-  margin-top: 2.8rem;
+  margin-top: 3rem;
   border: 1px solid black;
   border-radius: 0.5rem;
   display: inline-block;
