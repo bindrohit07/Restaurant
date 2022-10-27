@@ -16,7 +16,7 @@ const resturant = () => {
 
   return (
    <>
-   <h1> #RR</h1>
+  
    <nav> 
     <div className='navItems'> 
         <button onClick={()=> filterDice("Breakfast")}> Breakfast</button>
