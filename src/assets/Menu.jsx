@@ -32,7 +32,7 @@ const Menu=[
         price: 'PRICE :20/-',
     },
     {
-        id:7,
+        id:5,
         name:'Paneer Dosa',
         category:'Lunch',
         image:'image/paneer_dosa.jpg',
@@ -49,7 +49,7 @@ const Menu=[
     },
    
     {
-        id:5,
+        id:7,
         name:'Sabji_Roti',
         category:'Lunch',
         image:'image/sabji_roti.jpg',
