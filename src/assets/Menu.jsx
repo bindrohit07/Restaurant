@@ -49,7 +49,7 @@ const Menu=[
     },
    
     {
-        id:7,
+        id:5,
         name:'Sabji_Roti',
         category:'Lunch',
         image:'image/sabji_roti.jpg',
