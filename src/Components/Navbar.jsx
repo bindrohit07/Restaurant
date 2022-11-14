@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import "../styles/navbar.css"
 
 const navbar = () => {
   return (
     <>
-    <nav> 
+    <nav className='navbar'> 
         <div>
             <button> Breakfast</button>
             <button> Lunch</button>
