@@ -53,7 +53,7 @@ nav button:hover {
 }
 .card:hover {
         font-family: sans-serif;
-	background:white;
+	background:#FFE0FF;
 	box-shadow: inset 0 0 0 5px #0bed4f;
   
 }
