@@ -100,7 +100,7 @@ img {
 @media (max-width: 720px) {
   .container{
     margin: 0px 40px;
-    cursor: pointer;
+    
   }
   
 }
