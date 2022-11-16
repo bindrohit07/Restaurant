@@ -1,6 +1,6 @@
 import React from 'react'
 import Cards from './Cards'
-import Navbar from './Navbar'
+//import Navbar from './Navbar'
 import '../App.css' 
 import Menu from '../assets/Menu'
 import { useState } from 'react'
