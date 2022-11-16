@@ -20,7 +20,7 @@ const Cards = ({ menuData }) => {
                     <p>{currentData.detail}</p>
 
                     <img
-                      className="imagebox"
+                      
                       src={currentData.image}
                       alt="this is a poster"
                     ></img>
