@@ -95,7 +95,14 @@ img {
   text-align: center;
   margin: 1rem 0;
 }
-
+@media (min-width: 720px) {
+  .container{
+    margin: 0px 40px;
+    background-color: #0bed4f;
+  
+  }
+  
+}
 
 @media (max-width: 720px) {
   .container{
@@ -103,4 +110,11 @@ img {
     
   }
   
+}
+@media (max-width: 400px)  {
+  .container{
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 15px;
+  } 
 }
