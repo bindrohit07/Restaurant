@@ -24,6 +24,7 @@ const resturant = () => {
         <button onClick={()=> filterDice("Snacks")}> Snacks</button>
         <button onClick={()=> filterDice("Dinner")}> Dinner</button>
       </div>
+<div className='title'><b>Welcome to <span className='naam'>Rohit's Restaurant</span></b></div>
 </nav>
    <Cards menuData={menuData} 
    />
